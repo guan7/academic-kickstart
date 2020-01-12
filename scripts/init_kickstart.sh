@@ -22,7 +22,7 @@ rsync -av ../themes/academic/data/page_sharer.toml ../data/
 rsync -av --exclude gallery/ ../themes/academic/exampleSite/content/home/ ../content/home/
 
 # Install indices
-rsync -av ../themes/academic/exampleSite/content/post/_index.md ../content/teaching/_index.md
+rsync -av ../themes/academic/exampleSite/content/project/_index.md ../content/teaching/_index.md
 
 rsync -av ../themes/academic/exampleSite/content/post/_index.md ../content/research/_index.md
 rsync -av ../themes/academic/exampleSite/content/publication/_index.md ../content/publication/_index.md
