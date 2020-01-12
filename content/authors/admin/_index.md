@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctoral Fellow
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://uclouvain.be/fr/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing.
 
 interests:
 - Tensor Problem
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "ricky7guanyu@gmail.com".
+  link: 'ricky7guanyu@gmail.com'  # For a direct email link, use "ricky7guanyu@gmail.com".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=FdX_tucAAAAJ&hl=zh-CN
@@ -57,7 +57,7 @@ social:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # social:
- - icon: "cv"
+ - icon: CV
    icon_pack: ai
    link: files/cv.pdf
 
