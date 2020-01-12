@@ -53,9 +53,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/guan7
-  - icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=FdX_tucAAAAJ&hl=zh-CN
 -icon:cv
   icon_pack: ai
   link: static/files/cv.pdf
