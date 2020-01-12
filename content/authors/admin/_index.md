@@ -53,7 +53,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/guan7
--icon:cv
+-icon: cv
   icon_pack: ai
   link: static/files/cv.pdf
 
