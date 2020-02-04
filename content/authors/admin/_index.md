@@ -53,13 +53,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/guan7
-
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
--icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#-icon: cv
+#  icon_pack: ai
+#  link: static/files/cv.pdf
  
 
 
@@ -73,6 +75,6 @@ email: ""
 # - Visitors
 ---
 
-Yu Guan is a post-doctoral fellow in the ICTEAM institute at UCLouvain working with Prof. Pierre-Antoine Absil. Her research interests include tensor decomposition, tensor completion and machine learning. She got her PHD degree at National University of Singapore under the supervisor Prof. Delin Chu.
+Yu Guan is a post-doctoral fellow in the ICTEAM institute at UCLouvain working with  <a href="https://sites.uclouvain.be/absil/" target="_blank">Prof. Pierre-Antoine Absil</a>. Her research interests include tensor decomposition, tensor completion and machine learning. She got her PHD degree at National University of Singapore under the supervisor Prof. Delin Chu.
 
 
