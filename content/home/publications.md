@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "More &gt;&gt;"
+subtitle = "<a href="https://guanyu7.top/publication/">More &gt;&gt;</a>"
 
 [content]
  # Page type to display. E.g. post, talk, or publication.
@@ -66,6 +66,6 @@ subtitle = "More &gt;&gt;"
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+# {{% alert note %}}
+# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+# {{% /alert %}}
