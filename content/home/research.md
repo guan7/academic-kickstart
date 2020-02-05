@@ -1,77 +1,83 @@
 +++
-# A Projects section created with the Portfolio widget.
-widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+
+date = "2016-04-20T00:00:00"
+draft = false
 
 title = "Research"
 subtitle = ""
+widget = "blank"
 
-[content]
-  # Page type to display. E.g. project.
-  page_type = "project"
+# Order that this section will appear in.
+weight = 30
 
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `[[content.filter_button]]` below.
-
-  # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
-  filter_default = 0
-
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
-
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
-
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
-
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view = 3
-
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-
-[advanced]
- # Custom CSS. 
- css_style = ""
-
- # CSS class.
- css_class = ""
 +++
 
+## <i class="fas fa-users"></i> Long-term Collaborators &amp; Groups
+
+- <a href="https://sites.uclouvain.be/absil/" target="_blank">Prof. Pierre-Antoine Absil</a>, UCLouvain
+- <a href="https://mtchu.math.ncsu.edu/" target="_blank">Prof. Moody T. Chu</a>, NC State
+- Prof. Delin Chu, NUS
+<hr />
+
+## <i class="fas fa-chalkboard-teacher"></i> Selected Presentations
+
+- July 2019, <a href="https://iciam2019.org/" target="_blank"><em>International Congress on Industrial and Applied Mathematics (ICIAM 2019)</em></a>, Valencia, Spain
+- July 2019. <a href="http://www.spars-workshop.org/en/index.html" target="_blank"><em>Signal Processing with Adaptive Sparse Structured Representations (SPARS 2019)</em></a>, Toulouse, France
+- June 2018, <a href="http://www.shinshu-u.ac.jp/faculty/engineering/appl/2017/math/ohno/icmaa.htm" target="_blank"><em>The 7th International Conference on Matrix Analysis and Applications (ICMAA 2018)</em></a>, Nagano, Japan
+<hr />
+
+## <i class="fas fa-hands-helping"></i> Academic Visits
+<table>
+<thead>
+<tr>
+<th>Duration</th>
+<th>Place</th>
+<th>Host</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>July 2017-Jan 2018</td>
+<td>North Carolina State University</td>
+<td><a href="https://mtchu.math.ncsu.edu/" target="_blank">Prof. Moody T. Chu</a></td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+## <i class="fas fa-medal"></i> Selected Awards
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>2014-2018</td>
+<td>NUS Research Scholarship, National University of Singapore</td>
+</tr>
+
+<tr>
+<td>2014</td>
+<td>Honor Gradute Student Award, Shanghai University</td>
+</tr>
+
+<tr>
+<td>2013</td>
+<td>National Scholarship, awarded by Ministry of Education of China</td>
+</tr>
+
+<tr>
+<td>2009</td>
+<td>Academic Scholarship, Shanghai University</td>
+</tr>
+
+</tbody>
+</table>

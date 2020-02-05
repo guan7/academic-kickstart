@@ -1,7 +1,7 @@
 ---
 title: "SVD-based algorithms for the best rank-1 approximation of a symmetric tensor"
 authors:
-- admin
+- <strong>Yu Guan</strong>
 - Moody T Chu
 - Delin Chu
 date: "2018"
@@ -17,10 +17,12 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*SIAM Journal on Matrix Analysis and Applications, 39*(3)"
+publication: "SIAM Journal on Matrix Analysis and Applications, 39(2018), 1095–1115"
 publication_short: ""
 
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere #tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, #suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante #sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec #condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat #est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper revisits this problem of finding the best rank-1 approximation to a symmetric tensor and makes three contributions. First, in contrast to the many long and lingering arguments in the literature, it offers a straightforward justification that generically the best rank-1 approximation to a symmetric tensor is symmetric. Second, in contrast to the typical workhorse in the practice for the low-rank tensor approximation, namely, the alternating least squares (ALS) technique which improves one factor a time, this paper proposes three alternative algorithms, based on the singular value decomposition (SVD) that modifies two factors a time. One step of SVD-based iteration is superior to two steps of ALS iterations. Third, it is proved that not only the generalized Rayleigh quotients generated from the three SVD-based algorithms enjoy monotone convergence, but also that the iterates themselves converge.
+
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere #tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
@@ -63,12 +65,3 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

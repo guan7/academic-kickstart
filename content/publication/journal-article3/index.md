@@ -1,7 +1,7 @@
 ---
 title: "Convergence analysis of an SVD-based algorithm for the best rank-1 tensor approximation"
 authors:
-- admin
+- <strong>Yu Guan</strong>
 - Moody T Chu
 - Delin Chu
 date: "2018"
@@ -17,12 +17,11 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Linear Algebra and its Applications*"
+publication: "Linear Algebra and its Applications, 555(2018), 53-69"
 publication_short: ""
 
-#abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere #tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, #suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante #sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec #condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat #est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper revisits the classical problem of finding the best rank-1 approximation to a generic tensor. The main focus is on providing a mathematical proof for the convergence of the iterates of an SVD-based algorithm. In contrast to the conventional approach by the so called alternating least squares (ALS) method that works to adjust one factor a time, the SVD-based algorithms improve two factors simultaneously. The ALS method is easy to implement, but suffers from slow convergence and easy stagnation at a local solution. It has been suggested recently that the SVD-algorithm might have a better limiting behavior leading to better approximations, yet a theory of convergence has been elusive in the literature. This note proposes a simple tactic to partially close that gap.
 
-# Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere #tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin #condimentum.
 
 tags:
@@ -63,12 +62,3 @@ projects: []
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

@@ -1,12 +1,6 @@
 ---
-title: "Solutions of minus partial ordering equations
-over von Neumann regular rings"
-
-authors:
-- <strong>Yu Guan</strong>
-- Zhaojia Tong
-date: "2015"
-doi: ""
+<i class="fas fa-users"></i> Long-term Collaborators &amp; Groups
+<a href="https://sites.uclouvain.be/absil/" target="_blank">Prof. Pierre-Antoine Absil</a>, UCLouvain
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
