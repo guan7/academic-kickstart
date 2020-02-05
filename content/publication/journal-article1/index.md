@@ -2,10 +2,11 @@
 title: "Solutions of minus partial ordering equations
 over von Neumann regular rings"
 
-authors:
+authors: 
 - <strong>Yu Guan</strong>
 - Zhaojia Tong
-date: "2015"
+
+date: "2015-01-01" 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +20,7 @@ publication_types: ["2"]
 
 
 # Publication name and optional abbreviated publication name.
-publication: "Open Mathematics, 13(2015), 229–238"
+publication: "Open Mathematics"
 publication_short: ""
 
 abstract:  In this paper, we mainly derive the general solutions of two systems of minus partial ordering equations over von Neumann regular rings. Meanwhile, some special cases are correspondingly presented. As applications, we give some necessary and sufficient conditions for the existence of solutions. It can be seen that some known results can be regarded as the special cases of this paper.

@@ -14,21 +14,22 @@ weight = 30
 
 +++
 
-## <i class="fas fa-users"></i> Long-term Collaborators &amp; Groups
+## <h3 id="i-class-fas-fa-users-i-long-term-collaborators-groups"><i class="fas fa-users"></i> Long-term Collaborators &amp; Groups</h3>
 
 - <a href="https://sites.uclouvain.be/absil/" target="_blank">Prof. Pierre-Antoine Absil</a>, UCLouvain
 - <a href="https://mtchu.math.ncsu.edu/" target="_blank">Prof. Moody T. Chu</a>, NC State
 - Prof. Delin Chu, NUS
 <hr />
 
-## <i class="fas fa-chalkboard-teacher"></i> Selected Presentations
+## <h3 id="i-class-fas-fa-chalkboard-teacher-i-selected-presentations"><i class="fas fa-chalkboard-teacher"></i> Selected Presentations</h3>
 
 - July 2019, <a href="https://iciam2019.org/" target="_blank"><em>International Congress on Industrial and Applied Mathematics (ICIAM 2019)</em></a>, Valencia, Spain
 - July 2019. <a href="http://www.spars-workshop.org/en/index.html" target="_blank"><em>Signal Processing with Adaptive Sparse Structured Representations (SPARS 2019)</em></a>, Toulouse, France
 - June 2018, <a href="http://www.shinshu-u.ac.jp/faculty/engineering/appl/2017/math/ohno/icmaa.htm" target="_blank"><em>The 7th International Conference on Matrix Analysis and Applications (ICMAA 2018)</em></a>, Nagano, Japan
 <hr />
 
-## <i class="fas fa-hands-helping"></i> Academic Visits
+## <h3 id="i-class-fas-fa-hands-helping-i-academic-visits"><i class="fas fa-hands-helping"></i> Academic Visits</h3>
+
 <table>
 <thead>
 <tr>
@@ -49,7 +50,7 @@ weight = 30
 
 <hr />
 
-## <i class="fas fa-medal"></i> Selected Awards
+## <h3 id="i-class-fas-fa-medal-i-selected-awards"><i class="fas fa-medal"></i> Selected Awards</h3>
 <table>
 <thead>
 <tr>

@@ -4,7 +4,7 @@ authors:
 - <strong>Yu Guan</strong>
 - Moody T Chu
 - Delin Chu
-date: "2018"
+date: "2018-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIAM Journal on Matrix Analysis and Applications, 39(2018), 1095–1115"
+publication: "SIAM Journal on Matrix Analysis and Applications"
 publication_short: ""
 
 abstract: This paper revisits this problem of finding the best rank-1 approximation to a symmetric tensor and makes three contributions. First, in contrast to the many long and lingering arguments in the literature, it offers a straightforward justification that generically the best rank-1 approximation to a symmetric tensor is symmetric. Second, in contrast to the typical workhorse in the practice for the low-rank tensor approximation, namely, the alternating least squares (ALS) technique which improves one factor a time, this paper proposes three alternative algorithms, based on the singular value decomposition (SVD) that modifies two factors a time. One step of SVD-based iteration is superior to two steps of ALS iterations. Third, it is proved that not only the generalized Rayleigh quotients generated from the three SVD-based algorithms enjoy monotone convergence, but also that the iterates themselves converge.

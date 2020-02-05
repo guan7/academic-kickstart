@@ -75,6 +75,6 @@ email: ""
 # - Visitors
 ---
 
-Yu Guan is a post-doctoral fellow in the ICTEAM institute at UCLouvain working with  <a href="https://sites.uclouvain.be/absil/" target="_blank">Prof. Pierre-Antoine Absil</a>. Her research interests include tensor decomposition, tensor completion and machine learning. She got her PHD degree at National University of Singapore under the supervisor Prof. Delin Chu.
+Yu Guan is a post-doctoral fellow in the ICTEAM institute at UCLouvain working with  <a href="https://sites.uclouvain.be/absil/" target="_blank">Prof. Pierre-Antoine Absil</a>. Her research interests include tensor decomposition, tensor completion and machine learning. She got her PHD degree at National University of Singapore under the supervisor Prof. Delin Chu. She had a visiting exprience working with <a href="https://mtchu.math.ncsu.edu/" target="_blank">Prof. Moody T. Chu</a>.
 
 

@@ -4,7 +4,7 @@ authors:
 - <strong>Yu Guan</strong>
 - Moody T Chu
 - Delin Chu
-date: "2018"
+date: "2018-01-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Linear Algebra and its Applications, 555(2018), 53-69"
+publication: "Linear Algebra and its Applications"
 publication_short: ""
 
 abstract: This paper revisits the classical problem of finding the best rank-1 approximation to a generic tensor. The main focus is on providing a mathematical proof for the convergence of the iterates of an SVD-based algorithm. In contrast to the conventional approach by the so called alternating least squares (ALS) method that works to adjust one factor a time, the SVD-based algorithms improve two factors simultaneously. The ALS method is easy to implement, but suffers from slow convergence and easy stagnation at a local solution. It has been suggested recently that the SVD-algorithm might have a better limiting behavior leading to better approximations, yet a theory of convergence has been elusive in the literature. This note proposes a simple tactic to partially close that gap.

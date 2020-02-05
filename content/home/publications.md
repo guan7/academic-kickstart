@@ -67,6 +67,4 @@ subtitle = "[*More &gt;&gt;*](https://guanyu7.top/publication/)"
  css_class = ""
 +++
 
-## <i class="far fa-file-alt"></i>  Journal Papers
-
- 
+## <h3 id="i-class-far-fa-file-alt-i-journal-papers-preprints"><i class="far fa-file-alt"></i> Journal Papers</h3>
