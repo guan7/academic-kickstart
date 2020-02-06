@@ -2,8 +2,8 @@
 title: "Numerical computation for orthogonal low-rank approximation of tensors"
 authors:
 - <strong>Yu Guan</strong>
-- Delin Chu
-date: "2019-01-01"
+- Delin Chu.
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIAM Journal on Matrix Analysis and Applications"
+publication: "SIAM Journal on Matrix Analysis and Applications, 40(2019), 1047-1065"
 publication_short: ""
 
 abstract: In this paper we study the orthogonal low-rank approximation problem of tensors in the general setting in the sense that more than one matrix factor is required to be mutually orthonormal, which includes the completely orthogonal low-rank approximation and semiorthogonal low-rank approximation as two special cases. It has been addressed in [L. Wang and M. T. Chu, SIAM J. Matrix Anal. Appl., 35 (2014), pp. 1058--1072] that “the question of more than one semi-orthogonal factor matrix, except for the case of complete orthogonality, remains open.” To deal with this open question we present an SVD-based algorithm. Our SVD-based algorithm updates two vectors simultaneously and maintains the required orthogonality conditions by means of the polar decomposition. The convergence behavior of our algorithm is analyzed for both objective function and iterates themselves and is illustrated by numerical experiments.
