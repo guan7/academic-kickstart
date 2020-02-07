@@ -161,7 +161,7 @@ link_authors = true
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_css = ["green", "flip2017", "cryptedmail"]
+plugins_css = ["assers/css/green.css", "assers/css/flip2017.css", "assers/css/cryptedmail.css"]
 #plugins_js  = []
 
 # Available address formats.
