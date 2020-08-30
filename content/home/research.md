@@ -23,8 +23,10 @@ weight = 30
 
 ## <h3 id="i-class-fas-fa-chalkboard-teacher-i-selected-presentations"><i class="fas fa-chalkboard-teacher"></i> Selected Presentations</h3>
 
-- July 2019, <a href="https://iciam2019.org/" target="_blank"><em>International Congress on Industrial and Applied Mathematics (ICIAM 2019)</em></a>, Valencia, Spain
-- July 2019. <a href="http://www.spars-workshop.org/en/index.html" target="_blank"><em>Signal Processing with Adaptive Sparse Structured Representations (SPARS 2019)</em></a>, Toulouse, France
+- Oct 2019. <a href="https://uclouvain.be/fr/agenda/sst" target="_blank"><em>ICTEAM Seminar</em></a>, Louvain-la-Neuve, Belgium <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/Guan_1001.pdf" target="_blank" rel="noopener"> Slides</a>
+- July 2019, <a href="https://iciam2019.org/" target="_blank"><em>International Congress on Industrial and Applied Mathematics (ICIAM 2019)</em></a>, Valencia, Spain <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/TALK.pdf" target="_blank" rel="noopener"> Slides</a>
+- July 2019. <a href="http://www.spars-workshop.org/en/index.html" target="_blank"><em>Signal Processing with Adaptive Sparse Structured Representations (SPARS 2019)</em></a>, Toulouse, France <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/190357_GUAN_poster.pdf" target="_blank" rel="noopener"> Poster</a>
+- Feb 2019. <a href="https://homes.esat.kuleuven.be/~sistawww/biomed/selma/index.php/presentations/seminars/" target="_blank"><em>SeLMA Seminars</em></a>, Leuven, Belgium <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/files/TALK_SeLMA.pdf" target="_blank" rel="noopener"> Slides</a>
 - June 2018, <a href="http://www.shinshu-u.ac.jp/faculty/engineering/appl/2017/math/ohno/icmaa.htm" target="_blank"><em>The 7th International Conference on Matrix Analysis and Applications (ICMAA 2018)</em></a>, Nagano, Japan
 <hr />
 
